@@ -5,10 +5,15 @@
 <br/>
 
 <!-- Introduce -->
-👋 Hello, I’m Suji Park.    
-👀 Hello! I’m a frontend developer who values working efficiently.    
-🌱 I primarily use React and am also skilled in Typescript and Next.js.    
-📫 Feel free to send an email: wind_s01@naver.com.   
+<div style="text-align: left !important;">
+👋 Hello, I’m Suji Park. <br>  
+👀 Hello! I’m a frontend developer who values working efficiently. <br>
+🌱 I primarily use React and am also skilled in Typescript and Next.js. <br>
+📫 Feel free to send an email: wind_s01@naver.com. <br>    
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/15px-Notion-logo.svg.png" alt="notion">  
+<a href="https://sujipark-fe.notion.site/Work-efa337eef66a4f6c981212d5573ce5cf?pvs=74" style="color: #000000;">Notion</a> <br>
+</div>
+
 <br/>
 
 ## Skills
@@ -32,9 +37,6 @@
 <!-- 최신 벨로그 글 가져오기 -->
 ## Recent blog post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suji5358)](https://velog.io/@suji5358)
-
-## Notion
-[Suji's Notion](https://sujipark-fe.notion.site/Work-efa337eef66a4f6c981212d5573ce5cf?pvs=74)
 
 
 <br/><br/>
