@@ -14,7 +14,7 @@
 <br /> <br /> 
 
 <span><img align=top src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Github" height="22"></span>
-<span>https://github.com/charmmming7</span><br />
+<span>https://github.com/sujipark-fe</span><br />
 
 <span><img align=top src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" height="22"></span>
 www.linkedin.com/in/sujipark-fe<br />
